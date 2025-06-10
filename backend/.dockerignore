@@ -1,0 +1,10 @@
+vendor
+runtime
+.git
+.gitignore
+README.md
+*.log
+.DS_Store
+docker-compose.yml
+Vagrantfile
+tests
